@@ -4,7 +4,13 @@ Welcome to my very first foray into the world of web development! As a budding f
 
 ## 🚀 Live Demo
 
-You can view the live demo of this project [here](https://asadkhan911.github.io/First-Front-End-Project/).
+You can view the live demo of this project [here](#).
+
+## 📸 Demo View
+
+Here is a preview of the project:
+
+![Project Preview](#) <!-- Replace with the actual URL of the demo image -->
 
 ## 📂 Features
 
