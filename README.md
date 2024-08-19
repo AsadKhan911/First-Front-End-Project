@@ -10,7 +10,7 @@ You can view the live demo of this project [here](https://asadkhan911.github.io/
 
 Here is a preview of the project:
 
-![Project Preview](Screenshot (1146).png) <!-- Replace with the actual URL of the demo image -->
+![Project Preview](ss.png) <!-- Replace with the actual URL of the demo image -->
 
 ## 📂 Features
 
